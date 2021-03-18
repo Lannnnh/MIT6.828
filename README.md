@@ -1,2 +1,2 @@
-# MIT6.828
-MIT6.828 lab and homework.
+# MIT_6.828
+MIT 6.828 Operator System lab and homework.
